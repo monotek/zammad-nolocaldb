@@ -1,0 +1,7 @@
+cli: false
+notifications: false
+targets:
+  centos-6:
+  centos-7:
+  debian-8:
+  ubuntu-16.04:
