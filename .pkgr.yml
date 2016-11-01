@@ -1,5 +1,6 @@
 cli: false
 notifications: false
+default_dependencies: false
 targets:
   centos-6:
   centos-7:
