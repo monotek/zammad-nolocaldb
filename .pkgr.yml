@@ -1,3 +1,5 @@
+name: zammad-nolocaldb
+description: zammad-nolocaldb
 cli: false
 notifications: false
 default_dependencies: false
