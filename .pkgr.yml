@@ -3,7 +3,7 @@ description: zammad-nolocaldb
 cli: false
 notifications: false
 default_dependencies: false
-buildpack: https://github.com/heroku/heroku-buildpack-static.git#master
+buildpack: https://github.com/heroku/heroku-buildpack-hello#master
 targets:
   centos-6:
   centos-7:
